@@ -13,4 +13,4 @@
 <img src="https://i.imgur.com/Msm7jut.png" alt="website-image">
 
 <h3> Home Page 🏡 Demo :</h3>
-<div align="center">🎁 <a href="https://ahmedmido77.github.io/DashBoard-Template/" target="_blank">To See Full Website 👉 Dashboard-Template</a></div>
+<div align="center">🎁 <a href="https://ahmedmido75.github.io/Dashboard-Template/" target="_blank">To See Full Website 👉 Dashboard-Template</a></div>
